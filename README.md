@@ -6,19 +6,19 @@
 ## Özellikler
 - **Kullanıcı Kaydı:**  
   Sevimli arayüzümüz sayesinde isim giriş ekranında kaydınızı oluşturun ve oyuna hızlıca başlayın.  
-  ([SignUpViewController.swift]&#8203;:contentReference[oaicite:0]{index=0})
+  
 
 - **Seviye Seçimi:**  
   Kolay, Orta ve Zor olmak üzere üç farklı zorluk seviyesi arasından seçim yaparak sincapların ekranda görünme süresini kendinize göre ayarlayın.  
-  ([LevelSelectionViewController.swift]&#8203;:contentReference[oaicite:1]{index=1})
+  
 
 - **Oyun Mekaniği:**  
   10 saniyelik heyecan dolu süre boyunca, rastgele ekranda beliren sincaplara dokunarak puanlarınızı artırın.  
-  ([ViewController.swift]&#8203;:contentReference[oaicite:2]{index=2})
+  
 
 - **Sonuç Ekranı:**  
   Oyun sonunda kullanıcı adınız, seçilen zorluk seviyesi, elde ettiğiniz puan ve mevcut yüksek skorlar ekranda gösterilir. Yeni bir rekor kırarsanız, özel tebrik mesajı ile ödüllendirilirsiniz!  
-  ([GameResultViewController.swift]&#8203;:contentReference[oaicite:3]{index=3})
+  
 
 - **Veri Saklama:**  
   Oyuncu bilgileri ve skorlar, `UserDefaults` aracılığıyla saklanır; böylece ilerlemenizi kolayca takip edebilirsiniz.
@@ -57,9 +57,7 @@
 
 ## Geliştirici Bilgileri
 - **Geliştirici:** Sercan Yeşilyurt
-- **Oluşturulma Tarihleri:**  
-  - SceneDelegate ve ViewController: 7 Şubat 2025  
-  - Diğer dosyalar: 13 Şubat 2025
+
 
 ## Gelecek Planları & Geliştirme
 catchGame halen geliştirilmekte olan bir projedir. Gelecekte:
